@@ -1,0 +1,38 @@
+/*=======================================
+			Bootstrap 4 Media Queries
+=========================================*/
+
+/*large device (Desktop & laptop)*/
+@media (min-width :1200px) {
+	/*Ok*/
+}
+
+/*Medium device (Medium Desktop & landscape Tablets)*/
+@media (min-width :992px) and (max-width :1199px){
+	
+}
+
+
+
+/*Small device (Small Desktop & portrait Tablets)*/
+@media (min-width :768px) and (max-width :991px) {
+	#about-bg-diagonal {
+		border-left: 0;
+		border-top: 0;
+		width: 100%;
+		height: 350px;
+	}
+	
+
+}
+
+/*Extra Small device (Landscape Phone & portrait tablets)*/
+@media (min-width :576px) and (max-width :767px) {
+	
+}
+
+
+/*large device (Desktop & laptop)*/
+@media (min-width :1200px) {
+	
+}
